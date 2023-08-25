@@ -1,0 +1,53 @@
+#heading {
+    font-weight: 900;
+    font-size: 2.5em;
+    text-shadow: 5px 5px 5px rgb(0, 255, 229);
+    margin-bottom: 5%;
+}
+
+#funcborder {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px 50px 20px 50px;
+    border-radius: 35px;
+    height: 250px;
+    width: 30%;
+    background-color: skyblue;
+    position: absolute;
+    top: 45%;
+    left: 5%;
+}
+
+.classborder {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px 50px 20px 50px;
+    border-radius: 35px;
+    height: 250px;
+    width: 30%;
+    background-color: violet;
+    position: absolute;
+    top: 45%;
+    right: 5%;
+}
+
+#funcbutton {
+    padding: 20px;
+    border-radius: 30px;
+    border: 2px solid black;
+    background-color: lightblue;
+    margin-right: 10%;
+    font-weight: bold;
+    margin-bottom: 5%;
+    cursor: pointer;
+}
+
+#classbutton {
+    padding: 20px;
+    border-radius: 30px;
+    border: 2px solid black;
+    background-color: lightblue;
+    width: 270px;
+    font-weight: bold;
+    cursor: pointer;
+}
